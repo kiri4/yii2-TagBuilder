@@ -9,7 +9,7 @@ namespace app\components\TagBuilder;
  * 
  * Примеры использования (examples/index.php):
  *  
- * use app\components\srbn\TagBuilder\Tag;
+ * use app\components\TagBuilder\Tag;
  *
  * echo new Tag('h1', 'Привет!', ['style' => 'color: red']);
  *
